@@ -7,7 +7,7 @@ import { Switch, Route, useRouteMatch } from "react-router-dom";
 import clsx from "clsx";
 import CssBaseline from "@material-ui/core/CssBaseline";
 import Box from "@material-ui/core/Box";
-import AppBar from "@material-ui/core/AppBar";
+import { AppBar } from "@material-ui/core";
 import Toolbar from "@material-ui/core/Toolbar";
 import Typography from "@material-ui/core/Typography";
 import IconButton from "@material-ui/core/IconButton";
